@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583793951632",
+    "project_id": "loginandregistersqlite",
+    "storage_bucket": "loginandregistersqlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583793951632:android:c588a693d309d8d8e6e915",
+        "android_client_info": {
+          "package_name": "com.example.loginandregistersqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583793951632-0aqi55c84h5d5i1nokc7m09ln6qh8olm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhL6IFPwyH155I9Ecg_E51dAXj5ZDnT24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583793951632-0aqi55c84h5d5i1nokc7m09ln6qh8olm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
