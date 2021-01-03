@@ -13,8 +13,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="437dp"
-        android:text="@string/register">
+        android:layout_marginBottom="304dp"
+        android:text="@string/register"
+        android:textColor="#0B0A0A">
 
     </Button>
 
@@ -23,43 +24,42 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="393dp"
-        android:text="@string/login">
+        android:layout_marginBottom="247dp"
+        android:text="@string/login"
+        android:textColor="#0C0C0C">
 
     </Button>
 
     <EditText
         android:id="@+id/reg_email"
-        android:layout_width="354dp"
+        android:layout_width="391dp"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="109dp"
-        android:layout_marginBottom="626dp"
-        android:ems="10"
-        android:hint="@string/email"
-        android:inputType="textEmailAddress" />
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="557dp"
+        android:hint="@string/email"></EditText>
 
     <EditText
         android:id="@+id/reg_confirm"
-        android:layout_width="346dp"
-        android:layout_height="wrap_content"
+        android:layout_width="391dp"
+        android:layout_height="61dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="71dp"
-        android:layout_marginBottom="490dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="385dp"
         android:ems="10"
         android:hint="@string/confirm_password"
         android:inputType="textPassword" />
 
     <EditText
         android:id="@+id/reg_password"
-        android:layout_width="324dp"
+        android:layout_width="388dp"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="72dp"
-        android:layout_marginBottom="556dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="477dp"
         android:ems="10"
         android:hint="@string/password"
         android:inputType="textPassword" />

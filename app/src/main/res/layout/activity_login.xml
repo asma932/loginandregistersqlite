@@ -31,7 +31,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="393dp"
-        android:text="@string/login">
+        android:text="@string/login"
+        android:textColor="#121111">
 
     </Button>
 
